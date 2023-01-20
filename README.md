@@ -29,7 +29,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachpaveenY&layout=compact)](https://github.com/PrachpaveenY/PrachpaveenY)
 
 ## GitHub Stats :bar_chart:
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
@@ -41,16 +40,14 @@
 </br>
 
 ## ✨ My Portfolio Website ✨
-💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)<br>
+💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
 </br>
 
 ## My Social Media 🌐
-💖 [LinkedIn](https://www.linkedin.com/in/prachpaveen-y-225aa01b8/)<br>
-💖 [Facebook](https://www.facebook.com/prachpaveen/)<br>
-💖 [CodePen](https://codepen.io/PrachpaveenY/)<br>
-
-&nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/prachpaveen/)
-
+💖 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrachpaveenY)
+💖 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PrachpaveenY/)
+💖 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachpaveen-y-225aa01b8/)
+💖 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prachpaveen/)
 
 <!--
 **PrachpaveenY/PrachpaveenY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
