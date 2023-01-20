@@ -2,6 +2,25 @@
 
 #### 🌱 I’m currently learning Front-End{Vue.js} / Back-End{Go, Java} / DevOps
 
+## ✨ My Portfolio Website ✨
+💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
+</br>
+
+## My Social Media 🌐
+💖 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrachpaveenY)</br>
+💖 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PrachpaveenY/)</br>
+💖 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachpaveen-y-225aa01b8/)</br>
+💖 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prachpaveen/)</br>
+
+## GitHub Stats :bar_chart:
+<a href="https://github.com/PrachpaveenY/PrachpaveenY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachpaveenY&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</a>
+<a href="https://github.com/PrachpaveenY/PrachpaveenY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrachpaveenY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</a>
+</br>
+
 ## Langauges and Tools :💻
 ### Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,25 +48,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 </br>
-
-## GitHub Stats :bar_chart:
-<a href="https://github.com/PrachpaveenY/PrachpaveenY">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachpaveenY&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</a>
-<a href="https://github.com/PrachpaveenY/PrachpaveenY">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrachpaveenY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</a>
-</br>
-
-## ✨ My Portfolio Website ✨
-💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
-</br>
-
-## My Social Media 🌐
-💖 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrachpaveenY)
-💖 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PrachpaveenY/)
-💖 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachpaveen-y-225aa01b8/)
-💖 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/prachpaveen/)
 
 <!--
 **PrachpaveenY/PrachpaveenY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
