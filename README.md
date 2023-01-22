@@ -1,6 +1,6 @@
 ## Hi I'm Prachpaveen, Welcome to My Github Profile 👋
 
-#### 🌱 I’m currently learning Front-End{Vue.js} / Back-End{Go} / DevOps
+#### 🌱 I’m currently learning Front-End{Vue.js} / Back-End{Go, Java, Node.js} / DevOps / Database{MangoDB}
 
 ## GitHub Stats :bar_chart:
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
