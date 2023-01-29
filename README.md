@@ -1,6 +1,6 @@
 ## Hi I'm Prachpaveen, Welcome to My Github Profile 👋
 
-#### 🌱 I’m currently learning Front-End{} &nbsp;/&nbsp; Back-End{Go, Java, Node.js} &nbsp;/&nbsp; DevOps &nbsp;/&nbsp; Database{MongoDB}
+#### 🌱 I’m currently learning Front-End{React.js, Bootstrap} &nbsp;/&nbsp; Back-End{Java, Node.js} &nbsp;/&nbsp; DevOps &nbsp;/&nbsp; Database{MongoDB}
 
 ## GitHub Stats :bar_chart:
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
