@@ -1,6 +1,6 @@
 ## Welcome to My Github Profile 👋
 
-![PrachpaveenY](https://readme-typing-svg.herokuapp.com?font=Inter&color=64ffda&size=30&weight=700&lines=Hi+I'm+Prachpaveen+Y;Welcome to My Github Profile)
+![PrachpaveenY](https://readme-typing-svg.herokuapp.com?font=Inter&color=64ffda&size=30&weight=700&lines=Hi~~+I'm+Prachpaveen+Y;Welcome+to+My+Github+Profile)
 #### 🌱 I’m currently learning Front-End{React.js, Bootstrap} &nbsp;/&nbsp; Back-End{} &nbsp;/&nbsp; DevOps &nbsp;/&nbsp; Database{MongoDB}
 
 ## GitHub Stats :bar_chart:
