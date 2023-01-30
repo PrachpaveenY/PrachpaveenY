@@ -1,5 +1,5 @@
 ![PrachpaveenY](https://readme-typing-svg.herokuapp.com?font=Inter&color=64ffda&size=30&weight=700&lines=Hi~~+I'm+Prachpaveen+Y;Welcome+^^)
-#### 🌱 I’m currently learning Front-End{React.js, Bootstrap} &nbsp;/&nbsp; Back-End{} &nbsp;/&nbsp; DevOps &nbsp;/&nbsp; Database{MongoDB}
+#### 🌱 I’m currently learning Front-End{React.js, Bootstrap} &nbsp;/&nbsp; Back-End{Java} &nbsp;/&nbsp; DevOps &nbsp;/&nbsp; Database{MongoDB}
 
 ## GitHub Stats :bar_chart:
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
