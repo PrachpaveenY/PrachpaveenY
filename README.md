@@ -1,4 +1,4 @@
-![PrachpaveenY](https://readme-typing-svg.herokuapp.com?font=Inter&color=64ffda&size=30&weight=700&lines=Hi~~+I'm+Prachpaveen+Y;Welcome)
+![PrachpaveenY](https://readme-typing-svg.herokuapp.com?font=Inter&color=64ffda&size=30&weight=700&lines=Hi~~+I'm+Prachpaveen+Y;Welcome+^^)
 #### 🌱 I’m currently learning Front-End{React.js, Bootstrap} &nbsp;/&nbsp; Back-End{} &nbsp;/&nbsp; DevOps &nbsp;/&nbsp; Database{MongoDB}
 
 ## GitHub Stats :bar_chart:
@@ -8,7 +8,7 @@
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrachpaveenY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
-<p align="">  <a href="https://github.com/PrachpaveenY/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=PrachpaveenY"></a></p>:trophy:
+<p align="">  <a href="https://github.com/PrachpaveenY/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=PrachpaveenY"></a>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"></p>
 
 ## ✨ My Portfolio Website ✨
 💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
