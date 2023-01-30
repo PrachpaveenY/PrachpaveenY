@@ -18,7 +18,7 @@
 <a href="https://github.com/PrachpaveenY/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=PrachpaveenY">
 </a>
-    <a href="https://github.com/PrachpaveenY?tab=followers">
+    <a href="https://github.com/PrachpaveenY/PrachpaveenY">
         <img src="https://img.shields.io/github/followers/JubayerRiyad?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
