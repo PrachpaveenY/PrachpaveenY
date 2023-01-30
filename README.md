@@ -1,4 +1,5 @@
 ## Hi I'm Prachpaveen, Welcome to My Github Profile 👋
+![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Jubayer+Riyad;JubayerRiyad)
 
 #### 🌱 I’m currently learning Front-End{React.js, Bootstrap} &nbsp;/&nbsp; Back-End{} &nbsp;/&nbsp; DevOps &nbsp;/&nbsp; Database{MongoDB}
 
@@ -13,6 +14,15 @@
 
 ## ✨ My Portfolio Website ✨
 💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
+<p align="center">  
+<a href="https://github.com/JubayerRiyad/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=JubayerRiyad">
+</a>
+    <a href="https://github.com/JubayerRiyad?tab=followers">
+        <img src="https://img.shields.io/github/followers/JubayerRiyad?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: JubayerRiyad Visitor's Count" /></p>
 </br>
 
 ## Langauges and Tools 💻 :
