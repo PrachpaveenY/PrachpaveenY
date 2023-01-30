@@ -10,20 +10,12 @@
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrachpaveenY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
-</br>
+<p align="center">  
+<a href="https://github.com/PrachpaveenY/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=PrachpaveenY"></a></p></br>
 
 ## ✨ My Portfolio Website ✨
 💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
-<p align="center">  
-<a href="https://github.com/PrachpaveenY/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PrachpaveenY">
-</a>
-    <a href="https://github.com/PrachpaveenY/PrachpaveenY">
-        <img src="https://img.shields.io/github/followers/JubayerRiyad?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: PrachpaveenY Visitor's Count" /></p>
-</br>
 
 ## Langauges and Tools 💻 :
 ### Front-End
