@@ -8,7 +8,7 @@
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrachpaveenY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
-<p align="">  <a href="https://github.com/PrachpaveenY/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=PrachpaveenY"></a>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34px"></p>
+<p align="">  <a href="https://github.com/PrachpaveenY/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=PrachpaveenY"></a></p>
 
 ## ✨ My Portfolio Website ✨
 💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
