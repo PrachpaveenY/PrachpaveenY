@@ -25,7 +25,6 @@
 ### Back-End
 ![GO](https://img.shields.io/badge/go-007d9c?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![sql](https://img.shields.io/badge/sql-339933?style=for-the-badge&logo=sql&logoColor=white)
 </br>
 
 ### Database Tools
