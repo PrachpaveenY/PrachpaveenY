@@ -9,8 +9,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PrachpaveenY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
 <p align="">  <a href="https://github.com/PrachpaveenY/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=PrachpaveenY"></a></p> 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachpaveen-y-225aa01b8/)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PrachpaveenY/) 🌐
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PrachpaveenY/)
+🌐
 <!-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/???) -->
 
 ## ✨ My Portfolio Website ✨
