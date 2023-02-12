@@ -8,7 +8,7 @@
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PrachpaveenY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
-<p align="">  <a href="https://github.com/PrachpaveenY/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=PrachpaveenY"></a></p>
+<p align="">  <a href="https://github.com/PrachpaveenY/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=PrachpaveenY"></a></p> 🌐 [CodePen](https://codepen.io/PrachpaveenY/) 🌐 [LinkedIn](https://www.linkedin.com/in/prachpaveen-y-225aa01b8/) 🌐
 
 ## ✨ My Portfolio Website ✨
 💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
@@ -34,26 +34,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 </br>
 
-### API Tools
-![Postman](https://img.shields.io/badge/postman-ff8e64?style=for-the-badge&logo=postman&logoColor=white)
-![ThunderClient](https://img.shields.io/badge/thunderclient-6f42c1?style=for-the-badge&logo=thunderclient&logoColor=white)
-</br>
-
 ### Other Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)</br>
+![Postman](https://img.shields.io/badge/postman-ff8e64?style=for-the-badge&logo=postman&logoColor=white)
+![ThunderClient](https://img.shields.io/badge/thunderclient-6f42c1?style=for-the-badge&logo=thunderclient&logoColor=white)</br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 </br>
-
-## My Social Media 🌐
-💖 [GitHub](https://github.com/PrachpaveenY)</br>
-💖 [CodePen](https://codepen.io/PrachpaveenY/)</br>
-💖 [LinkedIn](https://www.linkedin.com/in/prachpaveen-y-225aa01b8/)</br>
-💖 [Facebook](https://www.facebook.com/prachpaveen/)</br>
 
 <!--
 **PrachpaveenY/PrachpaveenY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
