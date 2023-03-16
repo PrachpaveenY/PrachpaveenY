@@ -10,7 +10,7 @@
 </a>
 <p align="">  <a href="https://github.com/PrachpaveenY/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=PrachpaveenY"></a></p> 
 
-[![sponsors](https://img.shields.io/badge/sponsors/-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://github.com/sponsors/PrachpaveenY)
+[![sponsors](https://img.shields.io/badge/sponsors-000000?style=for-the-badge&logo=sponsors&logoColor=white)](https://github.com/sponsors/PrachpaveenY)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachpaveen-y-225aa01b8/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PrachpaveenY/)
 <!-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/???) -->
