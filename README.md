@@ -15,8 +15,9 @@
 <!-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/???) -->
 
 ## ✨ My Portfolio Website ✨
-💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/) </br></br>
-[![Sponsor](https://img.shields.io/badge/SPONSOR-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/PrachpaveenY)
+💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/) 
+<!-- </br></br>
+[![Sponsor](https://img.shields.io/badge/SPONSOR-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/PrachpaveenY) -->
 
 ## Langauges and Tools 💻 :
 ### Front-End
