@@ -17,7 +17,7 @@
 
 ## ✨ My Portfolio Website ✨
 💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
-https://github.com/sponsors/PrachpaveenY
+
 
 ## Langauges and Tools 💻 :
 ### Front-End
