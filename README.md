@@ -1,8 +1,6 @@
 ![PrachpaveenY](https://readme-typing-svg.herokuapp.com?font=Inter&color=64ffda&size=30&weight=700&lines=Hi~~+I'm+Prachpaveen+Y;Welcome+^^)
 #### 🌱 I’m currently learning Front-End &nbsp;/&nbsp; Back-End &nbsp;/&nbsp; DevOps
 
-[![sponsors](https://img.shields.io/badge/sponsors-ff6ec7?style=for-the-badge&logo=sponsors&logoColor=white)](https://github.com/sponsors/PrachpaveenY)
-
 ## GitHub Stats :bar_chart:
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachpaveenY&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
@@ -18,7 +16,7 @@
 
 ## ✨ My Portfolio Website ✨
 💖 [Portfolio](https://prachpaveeny.github.io/prachpaveen.github.io/)
-
+[![Sponsor](https://img.shields.io/badge/SPONSOR-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/PrachpaveenY)
 
 ## Langauges and Tools 💻 :
 ### Front-End
