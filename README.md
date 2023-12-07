@@ -1,5 +1,6 @@
 ![PrachpaveenY](https://readme-typing-svg.herokuapp.com?font=Inter&color=64ffda&size=30&weight=700&lines=Hi~~+I'm+Prachpaveen+Y;Welcome+^^)
-#### 🌱 I’m currently learning Data Engineer &nbsp;/&nbsp; Microsoft Azure &nbsp;/&nbsp; Google Cloud Platform
+#### 🌱 I’m currently learning Microsoft Azure &nbsp;/&nbsp; Google Cloud Platform
+<!-- Data Engineer &nbsp;/&nbsp; -->
 
 ## GitHub Stats :bar_chart:
 <a href="https://github.com/PrachpaveenY/PrachpaveenY">
